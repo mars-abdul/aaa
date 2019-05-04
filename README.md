@@ -102,6 +102,11 @@ The below final image shows the identified Lane Area.
 
 The video is stored in output_videos folder.
 
+<p align="center">
+ <a href="https://youtu.be/mlXgRlVa1O4"><img src="./gif.gif" alt="Overview" width="50%" height="50%"></a>
+ <br>Results
+</p>
+
 ### Briefly discuss any problems / issues you faced in your implementation of this project. Where will your pipeline likely fail? What could you do to make it more robust?
 
 * Problems faced - 
